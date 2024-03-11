@@ -13,8 +13,6 @@ Hola! Me llamo Maria, trabajo en Cáritas donde día a día tratamos de ayudar a
 
 ¡Muchas gracias!
 
----
-
 
 ### Entrevista para Desarrollo de Proyecto con Cáritas
 
@@ -25,75 +23,88 @@ Hola! Me llamo Maria, trabajo en Cáritas donde día a día tratamos de ayudar a
 <col style="width:50%">
 <col style="width:50%">
 </colgroup>
-<tr><td>Describa brevemente a Cáritas y su misión principal.</td><td>--</td></tr>
-<tr><td>¿Cuáles son los principales desafíos actuales para Cáritas debido a la crisis económica?</td><td>--</td></tr>
+<tr><td>Describa brevemente a Cáritas y su misión principal.</td><td></td></tr>
+<tr><td>¿Cuáles son los principales desafíos actuales para Cáritas debido a la crisis económica?</td><td></td></tr>
 </table>
-
----
-
 
 
 #### **2) Detalles de la Nueva Idea**
 
-<table> 
-<tr><td>Describa con detalle la nueva idea o proyecto.</td><td>--</td></tr>
-<tr><td>¿Qué objetivos concretos buscan lograr?</td><td>--</td></tr>
-<tr><td>¿Se ha implementado algo similar anteriormente?</td><td>--</td></tr>
-
+<table>
+<colgroup>
+<col style="width:50%">
+<col style="width:50%">
+</colgroup>
+<tr><td>Describa con detalle la nueva idea o proyecto.</td><td></td></tr>
+<tr><td>¿Qué objetivos concretos buscan lograr?</td><td></td></tr>
+<tr><td>¿Se ha implementado algo similar anteriormente?</td><td></td></tr>
 </table>
-
----
-
 
 
 #### **3) Requerimientos del Proyecto**
 
-<table> 
-<tr><td>¿Qué funcionalidades específicas debería tener la solución?</td><td>--</td></tr>
-<tr><td>¿Existen preferencias tecnológicas o de plataforma?</td><td>--</td></tr>
-<tr><td>¿Quiénes son los usuarios finales y cómo interactuarían con la solución?</td><td>--</td></tr>
-
+<table>
+<colgroup>
+<col style="width:50%">
+<col style="width:50%">
+</colgroup>
+<tr><td>¿Qué funcionalidades específicas debería tener la solución?</td><td></td></tr>
+<tr><td>¿Existen preferencias tecnológicas o de plataforma?</td><td></td></tr>
+<tr><td>¿Quiénes son los usuarios finales y cómo interactuarían con la solución?</td><td></td></tr>
 </table>
-
----
 
 #### **4) Viabilidad y Logística**
 
-<table> 
-<tr><td>¿Cuál es el presupuesto disponible para el proyecto?</td><td>--</td></tr>
-<tr><td>¿Existen plazos definidos para la implementación?</td><td>--</td></tr>
-<tr><td>¿Cómo definirán y medirán el éxito del proyecto?</td><td>--</td></tr>
-
+<table>
+<colgroup>
+<col style="width:50%">
+<col style="width:50%">
+</colgroup>
+<tr><td>¿Cuál es el presupuesto disponible para el proyecto?</td><td></td></tr>
+<tr><td>¿Existen plazos definidos para la implementación?</td><td></td></tr>
+<tr><td>¿Cómo definirán y medirán el éxito del proyecto?</td><td></td></tr>
 </table>
 
----
 
 #### **5) Recursos y Colaboración**
 
-<table> 
-<tr><td>¿Qué recursos internos están disponibles para apoyar este proyecto (personal, datos)?</td><td>--</td></tr>
-<tr><td>¿Existen otros socios o partes interesadas involucradas?</td><td>--</td></tr>
-<tr><td>Describa su visión ideal de colaboración entre Cáritas y nuestra empresa.</td><td>--</td></tr>
+<table>
+<colgroup>
+<col style="width:50%">
+<col style="width:50%">
+</colgroup>
+<tr><td>¿Qué recursos internos están disponibles para apoyar este proyecto (personal, datos)?</td><td></td></tr>
+<tr><td>¿Existen otros socios o partes interesadas involucradas?</td><td></td></tr>
+<tr><td>Describa su visión ideal de colaboración entre Cáritas y nuestra empresa.</td><td></td></tr>
 </table>
 
----
 
 #### **6) Restricciones y Preocupaciones**
 
-<table> 
-<tr><td>¿Hay restricciones legales, éticas o de otro tipo que considerar?</td><td>--</td></tr>
-<tr><td>¿Tiene preocupaciones específicas respecto al desarrollo del proyecto?</td><td>--</td></tr>
+<table>
+<colgroup>
+<col style="width:50%">
+<col style="width:50%">
+</colgroup>
+<tr><td>¿Hay restricciones legales, éticas o de otro tipo que considerar?</td><td></td></tr>
+<tr><td>¿Tiene preocupaciones específicas respecto al desarrollo del proyecto?</td><td></td></tr>
 </table>
 
 #### **7) Próximos Pasos y Observaciones Adicionales**
 
 <table>
-<tr><td>¿Qué espera de la próxima etapa tras esta entrevista?</td><td>--</td></tr>
-<tr><td>¿Hay algo más que desee agregar o discutir?</td><td>--</td></tr>
+<colgroup>
+<col style="width:50%">
+<col style="width:50%">
+</colgroup>
+<tr><td>¿Qué espera de la próxima etapa tras esta entrevista?</td><td></td></tr>
+<tr><td>¿Hay algo más que desee agregar o discutir?</td><td></td></tr>
 </table>
 
----
 
 
 
+
+
+si, conoce la tecnologia que vamos a usar.
 
