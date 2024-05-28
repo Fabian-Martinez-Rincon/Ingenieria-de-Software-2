@@ -4,7 +4,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/Fabian-Martinez-Rincon/Ingenieria-de-Software-2)](https://github.com/Fabian-Martinez-Rincon/Ingenieria-de-Software-2/stargazers/)
 [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/Fabian-Martinez-Rincon/Ingenieria-de-Software-2)](https://github.com/Fabian-Martinez-Rincon/Ingenieria-de-Software-2)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1700&pause=800&color=111111&center=true&width=435&lines=🤖 Ingenieria de Software 2"/><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3Ayb2RpNGhhYm1sdnU3MXBxejkxaDZ5enZzajBkdnFmcmRvbXBmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7J4P7cUur2DlErijp3/giphy.gif">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1700&pause=800&color=D72600&center=true&width=435&lines=🤖 Ingenieria de Software 2"/><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3Ayb2RpNGhhYm1sdnU3MXBxejkxaDZ5enZzajBkdnFmcmRvbXBmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7J4P7cUur2DlErijp3/giphy.gif">
 
  </div>
 
@@ -19,6 +19,8 @@
 
 ---
 
-### Resumen teorico
+### Resumen para el Parcial
 
-#### Clase 1
+- [2024 Clase 1 Comunicacion SRS](#clase-1-comunicacion-srs)
+
+#### Clase 1 Comunicacion SRS
